@@ -1,1 +1,1 @@
-This project was aimed at implementing secure programming techniques into simple C Programs.
+This practical was aimed at implementing secure programming techniques into simple C Programs. The programs contained flaws which were identified and fixed. Comments denote where a flaw was fixed.
