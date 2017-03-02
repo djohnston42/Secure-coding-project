@@ -1,0 +1,1 @@
+This project was aimed at implementing secure programming techniques into simple C Programs.
